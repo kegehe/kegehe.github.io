@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[Linux下的文件颜色]]></title>
     <url>%2F2017%2F11%2F08%2FLinux%E4%B8%8B%E7%9A%84%E6%96%87%E4%BB%B6%E9%A2%9C%E8%89%B2%2F</url>
-    <content type="text"><![CDATA[Linux下的文件颜色 &emsp;在Linux，所有的一切都是以文件的形式存在，那么在如果我们只通过文件的颜色就大致知道它是一个什么样的文件，而不需要用ls命令查看文件属性，是不是更有效快速呢。 &emsp;那么下面介绍一些Linux下的文件颜色对应的文件类型 颜色说明 颜色 说明 白色 普通文件 蓝色 目录文件 浅蓝色 链接文件 绿色 可执行文件 红色 压缩文件 黄色 设备文件 红色底 设置了SUID的可执行文件 黄色底 设置了SGID的可执行文件 绿色底 设置了SBIT的可目录文件 其中SUID、SGID、SGIT为文件的特殊权限]]></content>
+    <content type="text"><![CDATA[Linux下的文件颜色 &emsp;在Linux，所有的一切都是以文件的形式存在，那么在如果我们只通过文件的颜色就大致知道它是一个什么样的文件，而不需要用ls命令查看文件属性，是不是更有效快速呢。 &emsp;那么下面介绍一些Linux下的文件颜色对应的文件类型 颜色说明 颜色 说明 白色 普通文件 蓝色 目录文件 浅蓝色 链接文件 绿色 可执行文件 红色 压缩文件 黄色 设备文件 红色底 设置了SUID的可执行文件 黄色底 设置了SGID的可执行文件 绿色底 设置了SBIT的可目录文件 其中SUID、SGID、SBIT为文件的特殊权限]]></content>
       <categories>
         <category>Linux</category>
       </categories>
